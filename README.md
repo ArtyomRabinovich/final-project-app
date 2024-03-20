@@ -1,70 +1,67 @@
-# Getting Started with Create React App
+# LaptopFinder
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Introduction
 
-## Available Scripts
+LaptopFinder is a web application for comparing and reviewing laptops. Developed by Artyom Rabinovich, it aims to provide users with an intuitive and comprehensive platform to find laptops that best suit their needs.
 
-In the project directory, you can run:
+## Table of Contents
 
-### `npm start`
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Dependencies](#dependencies)
+- [Configuration](#configuration)
+- [Documentation](#documentation)
+- [Troubleshooting](#troubleshooting)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Installation
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Since this project was bootstrapped with Create React App, you can install it by cloning the repository and running the following commands:
 
-### `npm test`
+git clone https://github.com/ArtyomRabinovich/final-project-app.git
+cd final-project-app
+npm install
+npm start
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This runs the app in development mode.
+Open http://localhost:3000 to view it in the browser.
 
-### `npm run build`
+## Usage
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Upon launching the app, you'll be greeted with a search bar on the homepage where you can start your laptop search. Navigate through the site to view items, see detailed information, or learn more about the project.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Features
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Laptop Listings: Browse through a variety of laptops.
+- Search and Filter: Find the laptop you're looking for with ease.
+- Laptop Details: View detailed information about each laptop.
+- Responsive Design: Built with Material-UI for a responsive layout.
+- 404 Page: Custom error page for non-existent routes.
 
-### `npm run eject`
+## Dependencies
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- React
+- React Router Dom
+- Material-UI
+- LaptopApi service for fetching laptop data
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Configuration
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+No additional configuration is needed to run the project in development mode.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Documentation
 
-## Learn More
+Refer to Create React App documentation to understand the underlying structure and scripts available.
+[Create React App documentation](https://create-react-app.dev/docs/getting-started/)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Material-UI documentation will help you understand the UI components used.
+[Material-UI documentation](https://mui.com/material-ui/getting-started/)
 
-### Code Splitting
+## Troubleshooting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+If you encounter any issues, first ensure all npm dependencies are correctly installed. Check the console for any errors that might indicate missing modules.
 
-### Analyzing the Bundle Size
+Common issues related to Create React App and their resolutions can be found here:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[Create React App Troubleshooting](https://create-react-app.dev/docs/troubleshooting/)
