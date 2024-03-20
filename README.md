@@ -35,9 +35,25 @@ Upon launching the app, you'll be greeted with a search bar on the homepage wher
 - Laptop Listings: Browse through a variety of laptops.
 - Search and Filter: Find the laptop you're looking for with ease.
 - Laptop Details: View detailed information about each laptop.
-- Responsive Design: Built with Material-UI for a responsive layout.
 - 404 Page: Custom error page for non-existent routes.
+- Responsive Design: Built with Material-UI for a responsive layout.
+## Screenshots
 
+### Homepage
+![Homepage](public/homepage.jpeg)
+
+### About Page
+![About Page](public/about.jpeg)
+
+### Items Listing
+![Items Listing](public/items.jpeg)
+
+### Laptop Details
+![Laptop Details](public/itemdetails.jpeg)
+### Edit
+![Laptop Details](public/edit.jpeg)
+### 404 Page
+![Laptop Details](public/notfound404.jpeg)
 ## Dependencies
 
 - React
