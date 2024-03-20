@@ -68,10 +68,12 @@ No additional configuration is needed to run the project in development mode.
 ## Documentation
 
 Refer to Create React App documentation to understand the underlying structure and scripts available.
+
 [Create React App documentation](https://create-react-app.dev/docs/getting-started/)
 
 
 Material-UI documentation will help you understand the UI components used.
+
 [Material-UI documentation](https://mui.com/material-ui/getting-started/)
 
 ## Troubleshooting
