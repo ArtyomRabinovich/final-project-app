@@ -40,20 +40,20 @@ Upon launching the app, you'll be greeted with a search bar on the homepage wher
 ## Screenshots
 
 ### Homepage
-![Homepage](public/homepage.jpeg)
+![Homepage](public/images/homepage.jpeg)
 
 ### About Page
-![About Page](public/about.jpeg)
+![About Page](public/images/about.jpeg)
 
 ### Items Listing
-![Items Listing](public/items.jpeg)
+![Items Listing](public/images/items.jpeg)
 
 ### Laptop Details
-![Laptop Details](public/itemdetails.jpeg)
+![Laptop Details](public/images/itemdetails.jpeg)
 ### Edit
-![Laptop Details](public/edit.jpeg)
+![Laptop Details](public/images/edit.jpeg)
 ### 404 Page
-![Laptop Details](public/notfound404.jpeg)
+![Laptop Details](public/images/notfound404.jpeg)
 ## Dependencies
 
 - React
