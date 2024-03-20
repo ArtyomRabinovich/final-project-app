@@ -19,9 +19,12 @@ LaptopFinder is a web application for comparing and reviewing laptops. Developed
 Since this project was bootstrapped with Create React App, you can install it by cloning the repository and running the following commands:
 
 git clone https://github.com/ArtyomRabinovich/final-project-app.git
+
 cd final-project-app
 npm install
+
 npm start
+
 
 This runs the app in development mode.
 Open http://localhost:3000 to view it in the browser.
